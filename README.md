@@ -1,2 +1,2 @@
-# bcaa
-Branched-Chain Abstract Actors: just a proof of concept on actor model.
+# Poor Actor
+A study of actor model.
