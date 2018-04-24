@@ -1,7 +1,7 @@
-package com.nowayhecodes.bcaa.core;
+package com.nowayhecodes.PoorActor.core;
 
+import java.nio.file.Path;
 import java.util.concurrent.TimeUnit;
-
 import org.immutables.value.Value;
 
 @Value.Immutable
